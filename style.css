@@ -8,3 +8,9 @@ header {border-bottom: solid 4px antiquewhite;
 padding: 10px;
 color: aliceblue;
 }
+section{background: yellow;
+    padding-bottom: 80px;
+    padding-top: 50px;
+    display: flex;
+    justify-content: center;
+}
